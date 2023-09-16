@@ -73,5 +73,5 @@ This website is for educational purpose only.<br>
 
 ## Author
 
-- [TBS6522H by Happysat](https://github.com/happysat/)
+- [TBS6522H by Happysat](https://github.com/happysat/TBS6522H/blob/main/README.md)
 
